@@ -2,7 +2,7 @@
 
 This is a tool I wrote to test the CER (Character Error Rate) for the following OCR libraries for handwriting detections. The testing is done on the [IAM](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) dataset.
 
--_docTR
+- docTR
 - PyTesseract
 - EasyOCR
 - keras-ocr
