@@ -9,7 +9,7 @@ This is a tool I wrote to test the CER (Character Error Rate) for the following 
 - PaddleOCR
 
 ## Usage
-Here is an example demonstrate how to test the CER `PyTesseract` on the *line* images from IAM dataset. `nforms` selects the number of *forms* from the IAM dataset. (In order to understand what and *lines* and *forms* mean, it would be advisable to look up the structure of the IAM dataset.)
+Here is an example demonstrate how to test the CER for `PyTesseract` on *line* images from the IAM dataset. `nforms` selects the number of *forms* from the IAM dataset. (In order to understand what *lines* and *forms* mean, it would be advisable to look up the structure of the IAM dataset.)
 
 
 ### Install dependencies
