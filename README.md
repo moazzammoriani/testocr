@@ -27,4 +27,4 @@ if __name__ == "__main__":
     Tester.get_lines_cer(PytesseractOcr, nforms=10)
 ```
 
-**Note: the function `Tester.get_lines_cer` assumes that your current directory contains the *lines* directory from the IAM dataset in your current directory (likewise, `Tester.get_words_cer` assumes you have the *words* directory in your current directory)**
+**Note: the function `Tester.get_lines_cer` assumes that your current directory contains the *lines* directory from the IAM dataset in your current directory (likewise, `Tester.get_words_cer` assumes you have the *words* directory in your current directory).**
