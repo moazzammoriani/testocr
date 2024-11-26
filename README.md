@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 ```
 
 ### Calling `Tester`
-```
+```python
 from testocr import Tester
 from helper.pytesseract import PytesseractOcr
 
